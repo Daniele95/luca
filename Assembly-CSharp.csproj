@@ -46,7 +46,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Descending.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <None Include="Assets\QuadBody.shader" />
+     <None Include="Assets\CueShared.cginc" />
+     <None Include="Assets\CircleBody.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
